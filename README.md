@@ -1,19 +1,27 @@
-# Hi there, I'm Harsh Panchal 👋                                                                                                                  ![](https://komarev.com/ghpvc/?username=Harsh-Panchal-1&abbreviated=true&style=flat-square)
+# Hi there, I'm Harsh Panchal 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Panchal-1&abbreviated=true&style=flat-square" alt="Profile Views" />
+</div>
 
-Aspiring Full-Stack Developer | Lifelong Learner
+**Aspiring Full-Stack Developer | Lifelong Learner**
 
-## About Me
+## 👨‍💻 About Me
+I am a Computer Science student passionate about Full-Stack Development. I love exploring new technologies and am constantly seeking opportunities to expand my knowledge, build secure systems, and contribute to open source.
 
-I am a passionate Full-Stack student. I love exploring new technologies and am constantly seeking opportunities to expand my knowledge and skills.
+## 🏆 Featured Achievements & Projects
+* **Top 10 Contributor, AcWoC:** Recognized for impactful open-source contributions.
+* **1st Runner-Up, Hackathon:** Developed innovative solutions with team Nirmaan Node.
+* **Nyaya-Setu:** Engineered a secure evidence-sealing blockchain platform. 
+*(Consider linking your repositories to these bullet points!)*
 
-## Tech & Tools Preference
+## 🚀 Tech & Tools Preference
 
 ### 💻 Languages & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,26 +43,28 @@ I am a passionate Full-Stack student. I love exploring new technologies and am c
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+## 🎯 Current Focus
+<img width="35%" align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-## Current Focus
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+- **NextAuth + MongoDB**: Building secure, role-based authentication systems.
+- **DSA in Java**: Solving core logic problems using GFG's curated list.
 
-- **NextAuth + MongoDB**: Building secure, role-based authentication systems
+<br><br>
 
-- **DSA in Java**: Solving DSA problems with GFG's curated list
+## 📊 GitHub Stats
 
-&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Panchal-1&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Panchal-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh-Panchal-1's Github Stats" />
+</div>
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Panchal-1&layout=compact&text_color=daf7dc&bg_color=151515)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Panchal-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh-Panchal-1's Github Stats">
-
-## How to Reach Me
+## 📫 How to Reach Me
 
 <p align="center">  
-&nbsp; <a href="https://www.instagram.com/the_hp_vibes/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/harsh--panchal/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:harsh.panchal1615@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  <a href="https://www.instagram.com/the_hp_vibes/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram"/></a>  
+  <a href="https://www.linkedin.com/in/harsh--panchal/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/></a>
+  <a href="mailto:harsh.panchal1615@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/></a>
 </p>
