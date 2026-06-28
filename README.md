@@ -11,8 +11,7 @@ I am a Computer Science student passionate about Full-Stack Development. I love 
 ## 🏆 Featured Achievements & Projects
 * **Top 10 Contributor, AcWoC:** Recognized for impactful open-source contributions.
 * **1st Runner-Up, Hackathon:** Developed innovative solutions with team Nirmaan Node.
-* **Nyaya-Setu:** Engineered a secure evidence-sealing blockchain platform. 
-*(Consider linking your repositories to these bullet points!)*
+* **Nyaya-Setu:** Engineered a secure evidence-sealing blockchain platform.
 
 ## 🚀 Tech & Tools Preference
 
